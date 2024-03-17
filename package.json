@@ -1,0 +1,26 @@
+{
+  "name": "node-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-names.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liansun96/Node.js-Tutorials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liansun96/Node.js-Tutorials/issues"
+  },
+  "homepage": "https://github.com/liansun96/Node.js-Tutorials#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
